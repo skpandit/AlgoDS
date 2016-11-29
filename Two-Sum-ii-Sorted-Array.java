@@ -1,6 +1,6 @@
 /**
- * Date 04/24/2016
- * @author Tushar Roy
+ * Date 11/29/2016
+ * @author Saili Pandit
  * https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
  */
  
