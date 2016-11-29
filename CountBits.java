@@ -1,7 +1,7 @@
 /**
- * Date 04/24/2016
+ * Date 11/29/2016
  * @author Saili Pandit
- * https://leetcode.com/problems/additive-number/
+ * https://leetcode.com/problems/counting-bits
  */
  public class Solution {
     public int[] countBits(int num) {
